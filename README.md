@@ -1,2 +1,3 @@
 # helloo-world
-This is my first repository on github
+This is my first repository on github.
+If you ask to explain myself in 3 words then i wil say " I am Ambisious, Practical and Hardworking"....
