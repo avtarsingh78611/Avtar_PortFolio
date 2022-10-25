@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Machine Learning, Keras , Tensor Flow and other modules.**
+- 🌱 I’m currently learning **Machine Learning, Python and SQL**
 
 - 🤝 I’m looking for help with **Data Science Projects**
 
